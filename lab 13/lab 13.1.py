@@ -1,3 +1,4 @@
+#1 блок 1 задание
 def linear_search(arr, target):
     for i, x in enumerate(arr):
         if x == target:

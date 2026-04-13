@@ -1,3 +1,4 @@
+#1 блок 1 задание
 import time
 import random
 import matplotlib.pyplot as plt

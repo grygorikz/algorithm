@@ -1,3 +1,4 @@
+#2 блок 6 задание
 #O(nloglogn)
 def sieve_of_eratosthenes(n):
     primes = [True] * (n + 1)
